@@ -1,0 +1,501 @@
+request_type,priority,submission_channel,assigned_staff_workload,processing_days,missing_documents,sla_breach
+Grade Concern,High,Online,36,4.5,1,1
+Document Request,High,Online,32,5.8,0,1
+Grade Concern,Urgent,Online,43,4.0,0,0
+ID Replacement,Normal,Online,44,3.3,0,0
+Enrollment,Normal,Walk-in,33,0.2,1,1
+Other,High,Online,20,4.7,0,0
+Grade Concern,Normal,Email,29,3.6,0,0
+Grade Concern,High,Online,22,1.7,0,0
+Enrollment,Normal,Walk-in,30,4.1,0,1
+Document Request,Low,Online,38,3.1,0,0
+Document Request,Low,Walk-in,20,2.5,0,0
+Other,High,Walk-in,25,4.8,0,1
+ID Replacement,Low,Online,6,0.6,1,1
+Grade Concern,Normal,Email,35,5.9,0,0
+Document Request,Normal,Online,25,1.2,0,0
+Enrollment,Low,Online,23,2.4,0,1
+Scholarship,Normal,Walk-in,26,7.2,1,1
+Enrollment,High,Walk-in,13,5.3,1,1
+Grade Concern,Low,Online,29,4.0,0,0
+ID Replacement,High,Online,35,2.3,0,0
+Grade Concern,High,Email,19,2.5,0,0
+Document Request,Normal,Walk-in,10,3.3,1,0
+Other,Low,Email,20,3.6,0,0
+Other,Normal,Online,13,3.1,0,0
+Grade Concern,Low,Walk-in,20,3.4,0,0
+Enrollment,Normal,Online,30,3.5,0,0
+Document Request,Urgent,Email,9,0.5,0,0
+Enrollment,Urgent,Online,35,3.1,0,0
+Enrollment,High,Walk-in,14,4.9,0,0
+ID Replacement,Normal,Online,41,1.8,1,0
+Grade Concern,High,Walk-in,35,3.7,0,0
+Other,High,Walk-in,16,1.9,0,0
+Document Request,Normal,Online,28,4.0,0,0
+Document Request,Normal,Email,9,2.4,1,0
+Document Request,Low,Online,9,5.8,0,0
+Enrollment,Normal,Walk-in,44,5.3,0,1
+Enrollment,Normal,Online,37,1.7,0,1
+Scholarship,Low,Online,11,4.4,0,1
+Enrollment,Low,Online,16,2.0,0,0
+ID Replacement,High,Online,13,2.2,0,0
+Document Request,Urgent,Online,21,4.1,0,0
+Grade Concern,Normal,Walk-in,16,2.5,0,0
+ID Replacement,High,Walk-in,18,5.0,0,0
+Document Request,Urgent,Walk-in,26,2.3,1,1
+Grade Concern,Low,Online,12,2.1,0,0
+Grade Concern,Normal,Online,41,3.1,0,0
+Document Request,Normal,Online,34,3.0,0,0
+Document Request,Low,Walk-in,36,6.0,0,1
+ID Replacement,High,Email,11,4.3,0,0
+Enrollment,Normal,Online,34,7.1,0,0
+Enrollment,Normal,Walk-in,39,8.2,0,0
+Enrollment,Low,Online,12,1.4,0,0
+Grade Concern,Low,Online,35,4.2,1,1
+ID Replacement,Urgent,Online,19,1.3,1,0
+ID Replacement,Low,Online,37,2.7,0,1
+Grade Concern,Normal,Walk-in,24,2.5,0,0
+Document Request,Normal,Email,37,2.2,0,0
+Scholarship,Normal,Online,11,1.3,0,0
+Enrollment,Normal,Online,20,3.2,0,0
+Enrollment,Normal,Walk-in,16,1.2,0,0
+ID Replacement,Low,Email,15,4.8,0,0
+Scholarship,Normal,Walk-in,17,1.7,0,0
+Scholarship,High,Online,20,8.6,1,0
+Grade Concern,Normal,Walk-in,10,2.3,0,0
+ID Replacement,Normal,Online,33,4.1,0,0
+Scholarship,High,Email,27,1.4,0,0
+Scholarship,High,Online,39,7.2,0,0
+Document Request,Low,Walk-in,33,6.0,0,1
+Enrollment,Normal,Online,11,3.7,1,0
+Document Request,Normal,Online,7,0.6,0,0
+Enrollment,Normal,Email,22,3.9,0,0
+Document Request,High,Walk-in,24,1.6,0,0
+Grade Concern,Normal,Online,14,5.9,0,0
+Enrollment,High,Email,37,5.6,0,0
+Enrollment,High,Email,28,4.0,0,0
+Document Request,Normal,Online,35,0.2,1,0
+Document Request,Urgent,Online,9,1.3,0,0
+ID Replacement,Normal,Online,38,5.4,0,1
+Scholarship,High,Walk-in,13,5.4,0,0
+Grade Concern,Normal,Online,23,5.6,1,1
+ID Replacement,Normal,Online,23,0.7,0,0
+Document Request,Normal,Email,38,4.7,0,0
+Grade Concern,Low,Email,16,5.2,0,0
+Enrollment,Normal,Walk-in,14,0.3,0,0
+Enrollment,Urgent,Email,18,3.4,0,0
+Enrollment,Normal,Walk-in,19,4.0,0,0
+Grade Concern,Low,Walk-in,12,2.7,0,0
+Document Request,Normal,Walk-in,12,0.2,0,0
+Enrollment,Low,Online,14,2.7,0,0
+Scholarship,Low,Online,24,3.1,1,0
+Enrollment,Urgent,Online,19,3.2,1,0
+ID Replacement,Normal,Walk-in,21,2.5,0,0
+Document Request,Normal,Online,34,3.2,0,0
+Document Request,Normal,Online,14,3.2,0,0
+Document Request,Low,Walk-in,42,5.1,1,1
+ID Replacement,Normal,Online,35,3.5,0,1
+Document Request,High,Online,12,2.5,0,0
+Enrollment,Normal,Walk-in,17,3.6,0,0
+Enrollment,Urgent,Email,12,0.2,1,0
+Other,Normal,Online,16,4.2,0,0
+Other,Normal,Online,19,3.5,0,0
+ID Replacement,High,Online,10,3.2,1,0
+Document Request,Urgent,Walk-in,5,4.7,0,0
+Other,High,Walk-in,22,0.2,1,0
+Grade Concern,Urgent,Online,33,0.4,0,0
+ID Replacement,High,Walk-in,17,3.9,0,0
+Document Request,High,Online,40,4.2,1,0
+Document Request,Low,Online,20,3.8,0,0
+Enrollment,High,Email,41,3.4,0,0
+Other,Normal,Online,14,4.5,0,0
+Document Request,Normal,Online,27,5.4,0,0
+Enrollment,High,Online,36,4.9,0,1
+Document Request,Urgent,Walk-in,7,2.6,0,0
+Scholarship,Urgent,Email,43,0.5,0,0
+Enrollment,Normal,Email,19,4.8,0,0
+Grade Concern,High,Online,25,5.9,0,0
+Grade Concern,High,Online,30,5.0,0,0
+ID Replacement,Normal,Walk-in,31,2.3,0,0
+Document Request,Low,Online,5,4.2,0,0
+ID Replacement,Low,Email,40,5.7,1,1
+Scholarship,High,Walk-in,30,6.7,0,0
+ID Replacement,Normal,Online,45,2.8,0,0
+Enrollment,Urgent,Walk-in,24,3.2,0,0
+Document Request,Normal,Online,30,5.2,1,0
+Enrollment,Urgent,Online,23,3.7,0,0
+Scholarship,Normal,Walk-in,41,2.2,0,0
+Document Request,High,Online,39,4.9,0,0
+Enrollment,Low,Walk-in,42,5.3,0,0
+Enrollment,Normal,Walk-in,25,3.8,0,0
+Scholarship,High,Email,37,4.5,1,0
+Enrollment,Urgent,Email,19,3.0,0,1
+Other,High,Online,23,6.3,0,0
+Scholarship,Low,Online,36,2.4,0,0
+Document Request,Normal,Walk-in,8,2.0,0,0
+Scholarship,Low,Email,34,4.0,0,1
+Enrollment,Low,Online,5,4.6,0,0
+Other,High,Online,28,1.1,0,0
+Scholarship,High,Online,24,1.3,0,1
+Grade Concern,High,Online,24,0.2,1,0
+Enrollment,High,Walk-in,25,3.7,0,1
+Scholarship,High,Online,25,1.7,0,0
+Scholarship,High,Walk-in,21,2.8,0,0
+Other,Low,Walk-in,23,4.8,0,0
+Scholarship,Normal,Walk-in,28,2.6,0,0
+Scholarship,Normal,Online,36,4.5,1,1
+Document Request,High,Online,27,3.2,0,0
+Document Request,Low,Walk-in,31,5.1,1,0
+Scholarship,Normal,Walk-in,39,5.0,1,1
+Document Request,High,Online,45,3.1,0,0
+Enrollment,Low,Email,9,2.8,0,1
+Grade Concern,Normal,Online,34,5.9,0,0
+Other,High,Email,14,4.0,0,1
+Enrollment,High,Online,13,0.7,1,0
+Scholarship,Normal,Online,37,5.3,0,1
+Enrollment,High,Online,7,1.1,1,0
+ID Replacement,Normal,Online,39,6.7,0,1
+Document Request,High,Online,36,5.9,0,1
+ID Replacement,Normal,Online,45,4.9,0,0
+Grade Concern,Normal,Online,32,4.2,0,0
+Grade Concern,Normal,Walk-in,40,3.8,0,0
+Enrollment,Normal,Online,9,4.3,0,0
+Other,High,Walk-in,41,3.6,0,0
+Enrollment,Low,Walk-in,11,3.6,1,0
+Enrollment,Low,Online,17,5.0,0,1
+Scholarship,Normal,Online,10,2.1,0,0
+Document Request,High,Email,21,2.4,0,0
+Grade Concern,High,Walk-in,35,1.9,0,0
+Grade Concern,Urgent,Online,15,1.4,1,0
+Document Request,Normal,Walk-in,38,0.8,0,0
+Other,Normal,Online,29,5.1,0,0
+Document Request,Low,Online,30,7.1,0,0
+Scholarship,Normal,Walk-in,43,6.9,0,1
+Document Request,Urgent,Online,22,0.6,0,0
+Other,High,Walk-in,19,4.8,1,0
+Enrollment,Normal,Online,45,6.9,0,1
+Enrollment,Normal,Walk-in,27,2.9,0,0
+Document Request,Urgent,Online,30,4.0,0,1
+Other,Normal,Online,17,0.2,0,0
+Other,Low,Online,13,3.7,1,0
+Grade Concern,Normal,Online,11,1.3,0,0
+Other,Low,Walk-in,14,3.6,0,0
+Other,Normal,Online,13,0.4,0,0
+Scholarship,Low,Online,35,5.0,0,0
+Document Request,Normal,Online,7,4.9,1,1
+Grade Concern,Normal,Online,30,2.4,0,0
+ID Replacement,Normal,Walk-in,43,2.3,0,1
+Document Request,Normal,Online,36,0.2,0,0
+Enrollment,Urgent,Email,21,3.1,0,0
+Grade Concern,High,Online,7,2.0,0,0
+Document Request,Normal,Walk-in,39,1.4,0,0
+Other,Normal,Online,5,3.8,0,0
+Enrollment,High,Online,32,3.1,0,1
+Enrollment,Normal,Email,32,2.0,0,0
+Grade Concern,Normal,Email,12,2.2,0,0
+Enrollment,Urgent,Email,35,6.0,0,1
+Enrollment,Normal,Online,12,4.3,0,0
+Scholarship,High,Online,14,3.1,1,1
+Other,Normal,Walk-in,38,5.2,0,0
+Enrollment,High,Online,45,2.3,0,0
+Document Request,Normal,Walk-in,15,3.4,0,0
+Grade Concern,Normal,Walk-in,42,4.5,0,0
+Other,Normal,Walk-in,42,3.4,0,0
+Scholarship,Low,Walk-in,36,4.8,0,1
+Enrollment,High,Walk-in,10,1.7,1,0
+Enrollment,Normal,Online,17,4.3,0,1
+Enrollment,Normal,Online,32,4.9,0,0
+Enrollment,High,Walk-in,45,0.2,0,0
+ID Replacement,High,Online,38,6.3,0,0
+Enrollment,Normal,Online,22,0.2,0,0
+Scholarship,Normal,Online,14,2.2,1,0
+ID Replacement,Urgent,Walk-in,44,6.2,0,0
+Scholarship,High,Walk-in,16,2.8,0,0
+Enrollment,High,Walk-in,19,0.8,0,0
+Grade Concern,Urgent,Online,44,2.4,0,0
+ID Replacement,High,Online,28,5.6,1,1
+Grade Concern,Low,Online,15,0.2,0,0
+Enrollment,Normal,Online,5,5.0,0,1
+Enrollment,Low,Walk-in,22,3.5,0,0
+Other,High,Walk-in,45,2.2,0,1
+Document Request,Urgent,Online,22,2.5,0,0
+Document Request,Normal,Online,33,2.1,0,0
+Scholarship,Normal,Online,15,4.9,0,0
+ID Replacement,Low,Email,36,5.4,1,0
+Other,Urgent,Walk-in,36,1.0,0,0
+Document Request,Low,Online,29,3.1,0,0
+Other,Low,Email,36,2.5,0,0
+Enrollment,Normal,Online,28,6.1,0,0
+Scholarship,Low,Online,20,1.1,1,0
+ID Replacement,Normal,Email,35,6.9,0,0
+Enrollment,Normal,Online,39,4.1,0,0
+Enrollment,Normal,Online,39,2.1,1,0
+Document Request,Low,Walk-in,13,2.0,0,0
+Other,Low,Online,32,2.5,0,0
+Scholarship,Normal,Walk-in,5,0.7,1,0
+Other,Low,Online,28,4.0,0,1
+Grade Concern,High,Online,28,1.6,0,0
+Document Request,Normal,Online,19,0.2,1,0
+Grade Concern,Normal,Online,45,3.7,1,1
+Enrollment,Normal,Online,41,1.0,0,0
+Enrollment,Normal,Online,6,1.7,0,0
+Grade Concern,Low,Email,13,1.6,0,0
+Grade Concern,Low,Online,13,1.7,1,1
+Enrollment,High,Online,41,7.8,0,1
+Scholarship,Low,Online,26,3.8,0,1
+ID Replacement,Normal,Online,34,4.4,0,0
+Grade Concern,Normal,Online,38,0.9,1,0
+ID Replacement,Normal,Walk-in,36,2.9,1,1
+Document Request,Normal,Online,8,3.5,0,0
+Document Request,High,Email,10,1.3,0,0
+Document Request,High,Email,21,5.2,1,0
+ID Replacement,Normal,Online,18,1.3,1,0
+Grade Concern,Normal,Online,35,3.5,0,0
+Document Request,Normal,Online,11,2.1,0,0
+Enrollment,Normal,Walk-in,20,3.8,0,0
+Enrollment,High,Online,14,2.1,0,0
+Grade Concern,Normal,Email,12,2.7,0,0
+Grade Concern,Normal,Walk-in,12,2.8,0,0
+Enrollment,Urgent,Walk-in,13,1.9,0,0
+Enrollment,Low,Online,28,4.7,1,0
+Scholarship,Normal,Email,21,4.0,0,1
+Enrollment,High,Online,22,3.4,0,0
+Grade Concern,Low,Online,24,2.9,0,0
+Document Request,Low,Online,35,5.5,0,0
+Enrollment,Low,Email,40,3.8,0,0
+Other,Urgent,Walk-in,26,3.2,0,0
+Enrollment,Low,Walk-in,31,4.1,0,0
+Document Request,Low,Online,35,7.1,0,1
+Enrollment,Low,Email,33,1.5,1,0
+Enrollment,Low,Online,10,4.5,0,0
+Enrollment,Normal,Online,45,1.0,1,0
+Enrollment,Normal,Email,11,3.6,1,1
+Enrollment,Normal,Online,21,6.4,1,1
+Enrollment,Normal,Online,31,4.8,0,0
+Scholarship,High,Walk-in,21,3.8,0,0
+ID Replacement,Low,Online,14,2.3,0,0
+Document Request,High,Online,42,4.3,0,0
+Document Request,Normal,Online,7,2.6,0,0
+Scholarship,Low,Online,15,1.9,1,1
+Other,High,Email,45,3.9,0,1
+Grade Concern,High,Walk-in,34,4.3,1,1
+Enrollment,Normal,Online,8,1.7,0,0
+Enrollment,Urgent,Online,35,2.6,0,0
+Enrollment,Normal,Online,44,1.9,0,0
+Enrollment,Normal,Walk-in,9,3.8,0,0
+Scholarship,Urgent,Email,21,4.5,0,1
+Document Request,Normal,Email,24,4.1,0,0
+Enrollment,High,Online,10,4.9,0,0
+Document Request,Normal,Online,13,3.4,0,0
+Scholarship,High,Online,12,3.9,0,1
+Enrollment,Normal,Walk-in,12,3.8,1,0
+Grade Concern,Normal,Online,21,3.4,0,0
+Enrollment,Normal,Walk-in,24,2.7,0,1
+Other,Normal,Walk-in,14,7.3,0,0
+Enrollment,Low,Online,16,2.5,0,1
+Grade Concern,Low,Online,12,2.0,0,0
+Other,Normal,Online,37,4.9,0,0
+Other,Low,Online,13,3.7,1,1
+Grade Concern,Low,Online,42,1.7,0,0
+Grade Concern,High,Walk-in,27,5.8,0,0
+ID Replacement,High,Online,37,3.9,0,0
+Grade Concern,High,Online,31,1.9,0,0
+Enrollment,Normal,Walk-in,15,5.5,0,0
+Scholarship,High,Walk-in,29,4.9,0,0
+Scholarship,Normal,Online,16,1.1,0,0
+Grade Concern,Low,Walk-in,9,6.3,0,0
+Document Request,Low,Email,15,4.5,0,0
+Document Request,High,Walk-in,16,3.3,0,0
+ID Replacement,Low,Walk-in,10,6.0,0,0
+Document Request,Normal,Online,5,3.3,0,0
+Enrollment,Urgent,Email,43,4.3,0,0
+Scholarship,Low,Online,26,2.5,0,0
+Document Request,Low,Email,21,4.6,0,0
+Enrollment,Urgent,Walk-in,43,5.2,1,0
+Document Request,Normal,Online,14,3.3,0,0
+Document Request,Low,Online,21,2.1,0,1
+Document Request,High,Walk-in,39,4.4,0,1
+Document Request,High,Walk-in,30,3.7,1,1
+ID Replacement,Normal,Online,21,1.1,0,0
+Document Request,Normal,Walk-in,15,0.7,0,0
+Other,Normal,Email,6,4.0,0,0
+Other,Low,Online,8,0.2,1,0
+Scholarship,Normal,Online,11,3.6,0,0
+Document Request,Normal,Online,37,3.2,1,0
+Scholarship,High,Walk-in,31,6.2,0,0
+Grade Concern,High,Online,22,2.7,1,0
+ID Replacement,Low,Email,37,5.3,0,1
+Grade Concern,Normal,Online,11,2.5,0,0
+Scholarship,Normal,Walk-in,13,3.5,0,0
+ID Replacement,High,Online,21,4.9,0,0
+Document Request,Normal,Online,42,3.4,0,0
+Grade Concern,Normal,Walk-in,30,5.6,0,0
+Enrollment,Normal,Online,39,2.4,0,0
+ID Replacement,Normal,Online,15,3.9,0,1
+Grade Concern,High,Email,39,5.8,0,1
+Enrollment,High,Email,7,4.2,1,1
+ID Replacement,Normal,Email,14,6.7,0,1
+Enrollment,High,Online,26,2.3,0,1
+Grade Concern,Urgent,Walk-in,7,0.6,0,0
+Enrollment,Normal,Email,40,2.4,1,0
+Other,Normal,Online,40,5.4,0,0
+Enrollment,Low,Online,27,4.6,0,0
+Other,High,Walk-in,17,3.6,1,0
+Grade Concern,Normal,Online,9,1.1,1,0
+Scholarship,Normal,Walk-in,30,5.2,0,1
+Grade Concern,Low,Email,27,1.5,0,0
+Grade Concern,High,Walk-in,36,6.1,0,1
+Other,Normal,Online,29,9.0,0,0
+Document Request,High,Online,10,3.8,0,0
+Scholarship,Low,Online,9,4.2,0,0
+Enrollment,Urgent,Online,37,3.2,0,0
+ID Replacement,Low,Walk-in,11,0.2,0,0
+Enrollment,Low,Walk-in,43,3.2,0,0
+Scholarship,High,Online,9,1.1,0,0
+Scholarship,Urgent,Online,34,1.4,1,0
+Document Request,Normal,Email,44,7.4,1,1
+Scholarship,Normal,Online,23,4.1,0,0
+Grade Concern,High,Online,7,3.7,0,0
+Grade Concern,High,Online,40,3.6,0,0
+Scholarship,Normal,Walk-in,12,2.9,0,0
+Scholarship,Normal,Online,26,5.4,0,0
+Other,High,Walk-in,45,4.3,1,0
+Enrollment,High,Online,35,5.0,1,0
+Enrollment,High,Walk-in,6,2.7,1,0
+Enrollment,Normal,Online,38,3.5,1,0
+ID Replacement,Low,Online,11,0.7,1,0
+Document Request,Urgent,Online,35,0.5,0,0
+Grade Concern,High,Online,30,3.4,1,0
+ID Replacement,High,Online,16,3.5,0,0
+Document Request,Low,Online,22,1.3,0,0
+Other,Normal,Online,9,3.1,0,0
+Grade Concern,High,Online,45,4.5,0,0
+Document Request,Low,Email,14,0.2,0,0
+Document Request,Urgent,Online,17,1.7,0,0
+Document Request,Normal,Walk-in,25,4.4,0,0
+Enrollment,High,Email,32,4.6,0,1
+Enrollment,High,Online,25,1.6,1,0
+Other,Normal,Walk-in,25,4.0,0,0
+Document Request,Normal,Email,28,5.6,0,0
+Document Request,Normal,Walk-in,40,5.6,0,1
+Grade Concern,Normal,Online,21,3.4,0,0
+Scholarship,Normal,Online,39,3.3,0,0
+Other,Normal,Online,37,3.0,1,1
+Grade Concern,Urgent,Online,44,5.2,0,0
+Scholarship,Normal,Email,42,4.6,0,0
+Document Request,Low,Email,37,5.2,0,0
+Other,Normal,Online,15,3.6,0,1
+ID Replacement,Normal,Walk-in,36,5.5,1,1
+Other,Low,Online,35,4.2,0,1
+Enrollment,Low,Email,16,4.8,1,1
+Grade Concern,High,Online,32,5.5,0,1
+ID Replacement,Normal,Email,15,1.9,1,0
+Enrollment,Urgent,Walk-in,26,0.5,0,0
+Scholarship,Normal,Online,37,6.9,1,1
+ID Replacement,Low,Online,12,3.7,1,0
+Enrollment,High,Walk-in,18,0.3,0,0
+Document Request,High,Online,37,2.8,1,0
+Grade Concern,Normal,Online,23,5.0,0,0
+Document Request,Normal,Email,44,3.8,0,0
+Document Request,Low,Walk-in,5,2.1,1,0
+Document Request,Normal,Online,34,6.5,0,0
+Document Request,Normal,Online,38,2.2,0,0
+Other,Normal,Online,42,2.8,0,1
+Grade Concern,Low,Email,11,3.6,0,0
+Enrollment,Normal,Online,45,5.1,1,0
+Other,Urgent,Online,21,4.4,0,1
+Other,High,Online,19,5.1,0,0
+Document Request,Normal,Email,19,3.8,0,0
+Grade Concern,Low,Online,31,4.8,0,0
+Enrollment,Normal,Email,32,3.5,1,1
+Other,Normal,Walk-in,24,3.8,1,0
+ID Replacement,High,Walk-in,7,3.2,0,0
+ID Replacement,High,Email,45,4.8,0,0
+Enrollment,Urgent,Walk-in,14,4.7,0,0
+Other,Urgent,Email,8,4.1,0,1
+Enrollment,Urgent,Online,29,3.9,0,0
+Enrollment,Urgent,Walk-in,21,2.1,0,0
+Enrollment,Low,Online,30,4.0,0,1
+Grade Concern,Low,Online,40,4.1,0,1
+Enrollment,Normal,Email,8,3.4,0,0
+Other,Normal,Email,16,7.3,0,1
+ID Replacement,Low,Walk-in,26,2.8,1,0
+Enrollment,High,Online,37,4.9,0,0
+Enrollment,Normal,Online,29,5.7,0,0
+Enrollment,Normal,Online,20,3.7,1,1
+ID Replacement,Low,Online,30,8.1,1,1
+Grade Concern,Normal,Online,45,3.7,0,0
+Enrollment,Low,Online,24,4.2,0,0
+Grade Concern,High,Online,41,2.8,0,0
+Enrollment,Normal,Walk-in,36,3.4,0,0
+Grade Concern,High,Online,17,3.8,0,0
+Other,Normal,Email,15,4.8,0,1
+Grade Concern,Normal,Walk-in,36,4.6,0,0
+ID Replacement,Normal,Online,13,5.5,0,0
+Grade Concern,High,Online,18,3.3,1,0
+Enrollment,High,Online,14,2.7,0,0
+Enrollment,Normal,Email,29,8.7,1,1
+Enrollment,Urgent,Online,17,4.1,1,0
+Scholarship,Low,Online,31,2.6,1,1
+Grade Concern,High,Email,43,3.1,0,0
+ID Replacement,Low,Email,39,2.5,1,1
+Grade Concern,Normal,Online,43,6.0,0,0
+Enrollment,High,Online,6,2.4,0,0
+Grade Concern,Low,Online,23,3.8,1,1
+Enrollment,Normal,Online,14,3.2,0,0
+Document Request,Normal,Online,42,5.6,0,1
+ID Replacement,Normal,Walk-in,34,2.5,0,1
+Other,High,Email,18,1.5,1,0
+ID Replacement,High,Online,28,4.2,0,1
+Enrollment,High,Walk-in,29,4.9,0,0
+ID Replacement,Normal,Online,25,4.3,1,0
+Enrollment,Normal,Walk-in,24,2.2,0,0
+Other,Normal,Walk-in,7,4.3,0,0
+ID Replacement,Normal,Email,23,2.3,0,0
+Enrollment,Low,Email,19,2.5,1,0
+Enrollment,Urgent,Online,38,2.4,0,0
+Enrollment,High,Online,40,6.5,0,1
+Other,High,Online,35,5.2,0,0
+Document Request,Normal,Online,6,4.1,1,0
+Grade Concern,Normal,Email,39,6.4,0,1
+ID Replacement,Normal,Online,21,8.6,0,0
+Scholarship,Normal,Walk-in,22,0.5,1,0
+Enrollment,Normal,Online,43,3.0,0,0
+Other,Low,Online,40,3.1,0,0
+Document Request,Low,Online,7,1.5,0,0
+Scholarship,Urgent,Walk-in,19,1.5,1,0
+ID Replacement,Normal,Walk-in,35,3.5,0,0
+ID Replacement,Urgent,Online,27,1.6,0,0
+Other,Low,Online,15,3.9,0,0
+Enrollment,Normal,Walk-in,26,3.8,0,0
+Scholarship,Normal,Online,40,5.1,1,0
+Document Request,Normal,Email,14,4.2,0,0
+Scholarship,Low,Online,35,5.1,0,1
+Enrollment,Low,Online,35,3.4,1,0
+Enrollment,Urgent,Online,41,8.1,0,1
+Document Request,Normal,Online,17,3.8,0,0
+Document Request,Normal,Online,13,0.2,0,0
+Document Request,Normal,Online,27,1.9,0,0
+ID Replacement,Normal,Email,26,0.6,0,0
+ID Replacement,Normal,Online,21,3.6,0,0
+Document Request,Low,Online,36,3.8,0,1
+Document Request,Urgent,Online,37,3.3,0,0
+Enrollment,High,Online,15,6.9,0,0
+Scholarship,High,Walk-in,37,5.1,0,0
+Document Request,Normal,Online,14,4.6,0,1
+Enrollment,Low,Walk-in,21,1.9,1,0
+Document Request,Urgent,Online,6,1.2,0,0
+Scholarship,Normal,Email,18,3.5,0,0
+Enrollment,Low,Online,44,4.7,0,1
+Scholarship,Normal,Email,23,0.3,1,0
+Scholarship,High,Online,34,3.7,0,0
+ID Replacement,Normal,Online,9,3.1,0,0
+ID Replacement,High,Walk-in,31,3.5,0,1
+ID Replacement,High,Walk-in,20,2.0,0,0
+Document Request,Normal,Walk-in,35,3.1,0,1
+Grade Concern,Urgent,Online,43,4.0,0,0
+Scholarship,Normal,Walk-in,26,3.9,1,0
+Document Request,Normal,Email,9,4.2,0,0
+ID Replacement,Low,Walk-in,24,5.6,1,1
+Document Request,Urgent,Online,10,2.6,1,0
+Scholarship,Normal,Walk-in,23,2.8,1,0
